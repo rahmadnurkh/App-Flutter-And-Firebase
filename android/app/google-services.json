@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787442023708",
+    "project_id": "todoapp-df4de",
+    "storage_bucket": "todoapp-df4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787442023708:android:c5d4fc7891ea60b5858ed9",
+        "android_client_info": {
+          "package_name": "com.example.latihan_firebase_rahmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787442023708-297v7qngl3tbv8eg1virkskda6kosjga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQauVo_IcsD6VCDOE0omwEnRPOkums3gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787442023708-297v7qngl3tbv8eg1virkskda6kosjga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
